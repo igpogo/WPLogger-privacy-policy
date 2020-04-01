@@ -3,7 +3,7 @@ WP Logger privacy policy
 
 Privacy Policy
 
-built the WP Logger app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
+The developer built the WP Logger app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -15,9 +15,8 @@ Information Collection and Use
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Ignacio Porris. The information that I request will be retained on your device and is not collected by me in any way.
 
-The app does use third party services that may collect information used to identify you.
+The app does NOT use third party services that may collect information used to identify you.
 
-Link to privacy policy of third party service providers used by the app
 
 Log Data
 
